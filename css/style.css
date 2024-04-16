@@ -1,0 +1,32 @@
+body
+{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav
+{
+    background-color: aquamarine;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: none;
+}
+.topnav a
+{
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 14px 16px;
+}
+.topnav a:hover
+{
+    background-color: aqua;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav a:active
+{
+    background-color: rgb(rgb(96, 186, 183), rgb(61, 92, 202), rgb(15, 175, 170));
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
